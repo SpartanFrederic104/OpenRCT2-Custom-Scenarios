@@ -1,6 +1,6 @@
 # Fred-104's OpenRCT2 Custom Scenarios
 
-A repository containing all 450+ of my custom scenarios for OpenRCT2. They are divided into many custom campaigns/scenario packs, including but not limited to:
+A repository containing my custom scenarios for OpenRCT2. They are divided into many custom campaigns/scenario packs, including but not limited to:
 
 - **Tycoon Trek** — which takes inspiration from the original RollerCoaster Tycoon
 - **Corkscrew Genesis** — an attempt to recapture the feeling of the Corkscrew Follies (Added Attractions) expansion pack for RCT1

@@ -23,6 +23,6 @@ The repository currently contains a total of **291** scenarios spanning **10** s
 
 The following requirements for being able to play through my scenarios are listed below:
 
-- **Latest stable or develop build of OpenRCT2 (current: v0.4.6)** - This is important as the scenarios were made using OpenRCT2 itself Furthermore, most of the scenarios included are in the .park format, the new scenario/save format made exclusively for OpenRCT2 that drastically raises the limits from the original SC6 and SV6 formats.
+- **Latest stable or develop build of OpenRCT2 (current: v0.4.7)** - This is important as the scenarios were made using OpenRCT2 itself Furthermore, most of the scenarios included are in the .park format, the new scenario/save format made exclusively for OpenRCT2 that drastically raises the limits from the original SC6 and SV6 formats.
 - Both RCT2 Wacky Worlds and Time Twister expansion packs (many of the scenarios use assets from either expansion)
 - RCT1 Deluxe linked to OpenRCT2 (expect RCT1 assets in use here too)
